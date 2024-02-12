@@ -1,0 +1,93 @@
+{
+    "Episode0": {
+        "podcast_title": "Netflix Is A Daily Joke",
+        "episode_title": "Joel Kim Booster: A Joke About Boise",
+        "episode_image": "https://megaphone.imgix.net/podcasts/6fe427ec-b863-11ed-9e3b-f79bd21a2f4d/image/NIAJ-DailyPodcast-NewBranding.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "podcast_summary": "The podcast discusses the comedian's experience performing in Boise, Idaho and visiting a P.F. Chang's restaurant. He notes the lack of Asian people in Boise and the humorous reactions he received from the locals. The main insight is the comedian's playful observations about the stereotypes and misconceptions associated with Asian culture and cuisine.",
+        "podcast_highlights": {
+            "highlight1": "Not a lot of Asian people in Boise, Idaho",
+            "highlight2": "People reacted to me as if I were P.F. Chang himself",
+            "highlight3": "Walking around the restaurant like a boy prince returning to my kingdom",
+            "highlight4": "Unfusing the cuisine and sending everyone back to their own country",
+            "highlight5": "Small talk with a waitress at P.F. Chang's"
+        }
+    },
+    "Episode1": {
+        "podcast_title": "Netflix Is A Daily Joke",
+        "episode_title": "Bert Kreischer: A Joke About His Name",
+        "episode_image": "https://megaphone.imgix.net/podcasts/6fe427ec-b863-11ed-9e3b-f79bd21a2f4d/image/NIAJ-DailyPodcast-NewBranding.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "podcast_summary": "I'm sorry, but I am unable to help with summarizing content that is not provided. If you can provide the podcast transcript or details of the topics discussed, I will be happy to assist you.",
+        "podcast_highlights": {
+            "highlight1": "My name is Bert.",
+            "highlight2": "Bird's the last name you want to hear during sex.",
+            "highlight3": "60 and still standing, only on Netflix.",
+            "highlight4": null,
+            "highlight5": null
+        }
+    },
+    "Episode2": {
+        "podcast_title": "Netflix Is A Daily Joke",
+        "episode_title": "Ronny Chieng: A Joke About Japan",
+        "episode_image": "https://megaphone.imgix.net/podcasts/6fe427ec-b863-11ed-9e3b-f79bd21a2f4d/image/NIAJ-DailyPodcast-NewBranding.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "podcast_summary": "The podcast discusses the stark contrast between New York City and cities in Japan, emphasizing Japan's advanced technology and polite society. The main insight is the availability and effectiveness of toilets in Japan that can wash one's posterior, which has been in use since the 70s. The speaker expresses skepticism at first but acknowledges that the toilets work exceptionally well, comparing their accuracy to Steph Curry's basketball skills. The podcast also mentions the comedian Ronnie Chang's special on Netflix.",
+        "podcast_highlights": {
+            "highlight1": "Japan is known for its polite, friendly, and conscientious society.",
+            "highlight2": "Japan has practical applications of advanced technology, such as toilets that can wash your ass clean.",
+            "highlight3": "Toilets in Japan have been available since the 70s and are now a common feature in restaurants, homes, and hotels.",
+            "highlight4": "The toilets in Japan work efficiently and have a hot, jet stream of water that is always on target.",
+            "highlight5": "The comedian Ronnie Chang discusses Japan's advanced toilet technology in his Netflix special, 'Asian comedian destroys America.'"
+        }
+    },
+    "Episode3": {
+        "podcast_title": "Netflix Is A Daily Joke",
+        "episode_title": "Stavros Halkias: A Joke About Austin",
+        "episode_image": "https://megaphone.imgix.net/podcasts/6fe427ec-b863-11ed-9e3b-f79bd21a2f4d/image/NIAJ-DailyPodcast-NewBranding.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "podcast_summary": "The podcast transcript discusses the speaker's disdain for the changes taking place in Austin. The main topics discussed include the perceived loss of the city's coolness due to an influx of tech workers, the speaker's mockery of technology gadgets like the \"whoop strap\" and criticism of work culture, particularly at Amazon. The speaker expresses disapproval of the transformation of Austin into a tech-centered city and laments the loss of the city's quirky and fun atmosphere.",
+        "podcast_highlights": {
+            "highlight1": "Austin used to be a fun and hilarious town, known for its quirky and unique experiences.",
+            "highlight2": "The city has changed and is now being dominated by tech companies and their employees.",
+            "highlight3": "The influx of tech dorks has taken away the charm and character that Austin used to have.",
+            "highlight4": "The speaker criticizes the obsession with health and fitness in the tech community, questioning the need to know blood oxygen levels and taking ice baths.",
+            "highlight5": "The mention of working for Amazon implies a negative impact on the city."
+        }
+    },
+    "Episode4": {
+        "podcast_title": "Netflix Is A Daily Joke",
+        "episode_title": "Robby Hoffman: A Joke About Homophobic Parents",
+        "episode_image": "https://megaphone.imgix.net/podcasts/6fe427ec-b863-11ed-9e3b-f79bd21a2f4d/image/NIAJ-DailyPodcast-NewBranding.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "podcast_summary": "The podcast discusses the speaker's experience of growing up with homophobic parents. They talk about how their mother's homophobia is likely because they are gay and how it feels like a curse. The speaker also mentions that their parents must have some level of self-reflection, as one of them must be gay themselves for having a gay child. They humorously comment on their father's style of wearing cowboy boots in New York City. Overall, the main topic revolves around the speaker's personal experience with homophobic parents and how it has influenced their life.",
+        "podcast_highlights": {
+            "highlight1": "Surprise, surprise, my parents are homophobic.",
+            "highlight2": "My mother is homophobic because I'm gay.",
+            "highlight3": "Easy for you not to be homophobic, this happened to you're a kid?",
+            "highlight4": "Your parents are homophobic because you're gay and they made you.",
+            "highlight5": "Catch Robbie Hoffman in verified stand-up only on Netflix."
+        }
+    },
+    "Episode5": {
+        "podcast_title": "Netflix Is A Daily Joke",
+        "episode_title": "Pete Davidson: A Joke About Apple",
+        "episode_image": "https://megaphone.imgix.net/podcasts/6fe427ec-b863-11ed-9e3b-f79bd21a2f4d/image/NIAJ-DailyPodcast-NewBranding.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "podcast_summary": "The podcast transcript discusses the speaker's negative sentiments towards Apple and their rental service. The speaker perceives Apple as scumbags and compares them to the mafia. They express frustration with the charging port changes on new phones and the pricing structure for movie rentals on Apple. The speaker recommends watching Pete Davidson Turbo Fonsarelli on Netflix.",
+        "podcast_highlights": {
+            "highlight1": "Apple's rental service is frustrating and overpriced",
+            "highlight2": "Apple's business practices are compared to the mafia",
+            "highlight3": "Inconvenience caused by Apple's charging port changes",
+            "highlight4": "Apple's pricing for renting movies is unreasonable",
+            "highlight5": "Recommendation to watch Pete Davidson's Turbo Fonsarelli on Netflix"
+        }
+    },
+    "Episode6": {
+        "podcast_title": "Netflix Is A Daily Joke",
+        "episode_title": "Pete Holmes: A Joke About Underestimating His Daughter's Friend",
+        "episode_image": "https://megaphone.imgix.net/podcasts/6fe427ec-b863-11ed-9e3b-f79bd21a2f4d/image/NIAJ-DailyPodcast-NewBranding.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+        "podcast_summary": "The podcast discusses a humorous incident where the speaker's child, Lila, attends preschool and sings a dark song about monkeys. The kids in the preschool seem to understand the song and its dark undertones, surprising the speaker. One child, Dean, impresses the speaker with his understanding and creativity by envisioning the monkeys' deaths in a metal manner. The speaker admits to misjudging Dean and apologizes for previously mocking him. Insights from the podcast include the fact that children are capable of understanding complex concepts and that it is important not to underestimate their intelligence.",
+        "podcast_highlights": {
+            "highlight1": "Kids are more observant and understanding than we give them credit for.",
+            "highlight2": "The speaker misjudged Dean, a four-year-old boy, thinking he was 'norm core'.",
+            "highlight3": "The kids were singing a dark song about monkeys falling from a tree.",
+            "highlight4": "Dean surprises everyone with his dark response to the song.",
+            "highlight5": "The speaker realizes they misjudged Dean and apologizes for calling him names."
+        }
+    }
+}
