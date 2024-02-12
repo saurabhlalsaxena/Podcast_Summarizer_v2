@@ -75,8 +75,8 @@ def main():
           # Display image above episodes
           st.image(available_podcast_info[selected_podcast]['Episode0']['episode_image'], caption='Episode Image', use_column_width=True)
 
-      #episodes_dump = available_podcast_info[selected_podcast]
-      #display_episodes(episodes_dump)
+      episodes_dump = available_podcast_info[selected_podcast]
+      display_episodes(episodes_dump)
 
     # User Input box
     st.sidebar.subheader("Add and Process New Podcast Feed")
